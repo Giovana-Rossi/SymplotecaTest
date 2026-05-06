@@ -9,4 +9,9 @@ public class Book {
     private String publisher;
     private String ISBN;
 
+    private BookGenre genre;
+    private BookStatus status;
+
+
+
 }
